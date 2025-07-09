@@ -4,7 +4,7 @@
   "keywords": ["postcodewizard", "postcode", "autocomplete", "api"],
   "type": "library",
   "require": {
-    "php": "^8.0",
+    "php": ">=7.3",
     "guzzlehttp/guzzle": "^7.0"
   },
   "autoload": {
